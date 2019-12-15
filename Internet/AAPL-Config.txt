@@ -1,5 +1,6 @@
 RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge3/Apple.list,Apple
 DOMAIN-SUFFIX,cdn-apple.com,Apple
+DOMAIN-SUFFIX,apple.com.cn,Apple
 DOMAIN-KEYWORD,accuweather,DIRECT
 DOMAIN-SUFFIX,dji.com,DIRECT
 DOMAIN-SUFFIX,djicdn.com,DIRECT
