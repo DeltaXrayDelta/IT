@@ -1,11 +1,7 @@
+# Apple
 RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge3/Apple.list,Apple
 DOMAIN-SUFFIX,cdn-apple.com,Apple
 DOMAIN-SUFFIX,apple.com.cn,Apple
-DOMAIN-KEYWORD,accuweather,DIRECT
-DOMAIN-SUFFIX,dji.com,DIRECT
-DOMAIN-SUFFIX,djicdn.com,DIRECT
-DOMAIN-SUFFIX,skypixel.com,DIRECT
-DOMAIN-KEYWORD,tianyancha,AsianTV
 
 # Reject
 DOMAIN-KEYWORD,zhihu-web-analytics,AdBlock
@@ -13,3 +9,11 @@ DOMAIN-SUFFIX,gate.hockeyapp.net,AdBlock
 DOMAIN-SUFFIX,api.amplitude.com,AdBlock
 DOMAIN-SUFFIX,devmate.com,AdBlock
 DOMAIN-SUFFIX,addata.jd.com,AdBlock
+
+# Direct
+DOMAIN-SUFFIX,dji.com,DIRECT
+DOMAIN-SUFFIX,djicdn.com,DIRECT
+DOMAIN-SUFFIX,skypixel.com,DIRECT
+DOMAIN-SUFFIX,ip.istatmenus.app,DIRECT
+DOMAIN-KEYWORD,accuweather,DIRECT
+DOMAIN-KEYWORD,tianyancha,AsianTV
