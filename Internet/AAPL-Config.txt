@@ -1,5 +1,5 @@
 # Apple
-RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge%203/Apple.list,Apple
+RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Apple.list,Apple
 DOMAIN-SUFFIX,cdn-apple.com,Apple
 DOMAIN-SUFFIX,apple.com.cn,Apple
 
