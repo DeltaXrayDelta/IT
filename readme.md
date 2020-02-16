@@ -21,7 +21,10 @@ China Telecom <br> Guangdong | [202.96.128.86](202.96.128.86) <br> [202.96.134.3
 
 ## Windows
 
-### Set Wi-Fi Priority in CMD Command Line (Run as Admin)
+### Set Wi-Fi Priority in Windows 10
+
+Run command line (CMD) as admin
+
 Get a list of saved networks
 ```
 netsh wlan show profiles
