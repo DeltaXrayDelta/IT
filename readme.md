@@ -36,7 +36,19 @@ netsh wlan show interfaces
 Set your preferred network as first priority
 ```
 netsh wlan set profileorder name="<YOUR WI-FI SSID>" interface="<YOUR INTERFACE NAME>" priority=1
+
 ```
+## macOS
+
+### Disable System Update Notification Badge on System Preferences Icon
+```
+defaults write com.apple.systempreferences AttentionPrefBundleIDs 0; killall Dock
+```
+### Clear Calender.app Timezone List
+```
+defaults delete com.apple.iCal 'RecentlyUsedTimeZones'
+```
+
 ## CentOS
 
 ### Task Manager (Show PID)
