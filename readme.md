@@ -20,3 +20,12 @@ CNNIC | [1.2.4.8](1.2.4.8) <br> [210.2.4.8](210.2.4.8) |
 China Telecom <br> Guangdong | [202.96.128.86](202.96.128.86) <br> [202.96.134.33](202.96.134.33) | 
 
 ## CentOS
+
+### Task Manager (Show PID)
+```
+ps -aux
+```
+### Kill Process by PID
+```
+kill <PID>
+```
