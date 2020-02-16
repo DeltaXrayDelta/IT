@@ -19,17 +19,6 @@ Alibaba | [223.5.5.5](223.5.5.5) <br> [223.6.6.6](223.6.6.6)|
 CNNIC | [1.2.4.8](1.2.4.8) <br> [210.2.4.8](210.2.4.8) | 
 China Telecom <br> Guangdong | [202.96.128.86](202.96.128.86) <br> [202.96.134.33](202.96.134.33) | 
 
-## CentOS
-
-### Task Manager (Show PID)
-```
-ps -aux
-```
-### Kill Process by PID
-```
-kill <PID>
-```
-
 ## Windows
 
 ### Set Wi-Fi Priority in CMD Command Line (Run as Admin)
@@ -44,4 +33,14 @@ netsh wlan show interfaces
 Set your preferred network as first priority
 ```
 netsh wlan set profileorder name="<YOUR WI-FI SSID>" interface="<YOUR INTERFACE NAME>" priority=1
+```
+## CentOS
+
+### Task Manager (Show PID)
+```
+ps -aux
+```
+### Kill Process by PID
+```
+kill <PID>
 ```
