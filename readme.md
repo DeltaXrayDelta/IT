@@ -9,7 +9,7 @@
   * [Disable System Update Notification Badge on System Preferences Icon](#disable-system-update-notification-badge-on-system-preferences-icon)
   * [Clear Calender.app Timezone List](#clear-calenderapp-timezone-list)
 - [CentOS](#centos)
-  * [Task Manager (Show PID)](#task-manager)
+  * [Task Manager](#task-manager)
   * [Kill Process by PID](#kill-process-by-pid)
 
 ## Public DNS Service
