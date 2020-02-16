@@ -29,3 +29,19 @@ ps -aux
 ```
 kill <PID>
 ```
+
+## Windows
+
+### Set Wi-Fi Priority in CMD Command Line (Run as Admin)
+Get a list of saved networks
+```
+netsh wlan show profiles
+```
+Get interface name
+```
+netsh wlan show interfaces
+```
+Set your preferred network as first priority
+```
+netsh wlan set profileorder name="<YOUR WI-FI SSID>" interface="<YOUR INTERFACE NAME>" priority=1
+```
