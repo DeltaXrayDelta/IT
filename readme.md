@@ -9,7 +9,7 @@
   * [Disable System Update Notification Badge on System Preferences Icon](#disable-system-update-notification-badge-on-system-preferences-icon)
   * [Clear Calender.app Timezone List](#clear-calenderapp-timezone-list)
 - [CentOS](#centos)
-  * [Task Manager (Show PID)](#task-manager-show-pid-)
+  * [Task Manager (Show PID)](#task-manager)
   * [Kill Process by PID](#kill-process-by-pid)
 
 ## Public DNS Service
@@ -62,7 +62,7 @@ defaults delete com.apple.iCal 'RecentlyUsedTimeZones'
 
 ## CentOS
 
-### Task Manager (Show PID)
+### Task Manager
 ```
 ps -aux
 ```
