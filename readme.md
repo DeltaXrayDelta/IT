@@ -48,7 +48,6 @@ netsh wlan show interfaces
 Set your preferred network as first priority
 ```
 netsh wlan set profileorder name="<YOUR WI-FI SSID>" interface="<YOUR INTERFACE NAME>" priority=1
-
 ```
 ## macOS
 
