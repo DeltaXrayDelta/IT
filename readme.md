@@ -6,7 +6,7 @@
 
 Service Provider | URL | Notes
 ---------|----------|---------
-Cloudflare | [https://cloudflare-dns.com/dns-query](https://cloudflare-dns.com/dns-query) <br> [https://mozilla.cloudflare-dns.com/dns-query](https://mozilla.cloudflare-dns.com/dns-query) | 
+Cloudflare | [https://cloudflare-dns.com/dns-query](https://cloudflare-dns.com/dns-query) <br> [https://mozilla.cloudflare-dns.com/dns-query](https://mozilla.cloudflare-dns.com/dns-query) <br> [1.1.1.1](1.1.1.1) <br> [1.0.0.1](1.0.0.1) | 
 Google | [https://dns.google/dns-query](https://dns.google/dns-query) <br> [8.8.8.8](8.8.8.8) <br> [8.8.4.4](8.8.4.4) | 
 ADGuard | [https://dns.adguard.com/dns-query](https://dns.adguard.com/dns-query) <br> [176.103.130.130](176.103.130.130) <br> [176.103.130.131](176.103.130.131) | 
 
