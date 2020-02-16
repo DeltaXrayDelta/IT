@@ -1,5 +1,17 @@
 # Internet / IT / Hardware
 
+- [Public DNS Service](#public-dns-service)
+  * [Global](#global)
+  * [Mainland China](#mainland-china)
+- [Windows](#windows)
+  * [Set Wi-Fi Priority in Windows 10](#set-wi-fi-priority-in-windows-10)
+- [macOS](#macos)
+  * [Disable System Update Notification Badge on System Preferences Icon](#disable-system-update-notification-badge-on-system-preferences-icon)
+  * [Clear Calender.app Timezone List](#clear-calenderapp-timezone-list)
+- [CentOS](#centos)
+  * [Task Manager (Show PID)](#task-manager--show-pid-)
+  * [Kill Process by PID](#kill-process-by-pid)
+
 ## Public DNS Service
 
 ### Global
