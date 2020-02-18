@@ -1,5 +1,9 @@
 # Internet / IT / Hardware
 
+![E=mc^2](http://www.sciweavers.org/tex2img.php?eq=E%3Dmc%5E2&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+
+![E=mc^2](http://www.sciweavers.org/tex2img.php?eq=Error%20%3D%20more%20%5Ccdot%20code%5E2&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+
 - [Public DNS Service](#public-dns-service)
   * [Global](#global)
   * [Mainland China](#mainland-china)
