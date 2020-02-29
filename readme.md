@@ -78,6 +78,12 @@ kill <PID>
 ## Android
 
 ### Huawei EMUI Disable System Update
+Disable
 ```
 adb shell pm disable-user com.huawei.android.hwouc
+```
+
+Restore
+```
+adb shell pm enable com.huawei.android.hwouc
 ```
