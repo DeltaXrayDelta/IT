@@ -74,3 +74,10 @@ ps -aux
 ```
 kill <PID>
 ```
+
+## Android
+
+### Huawei EMUI Disable System Update
+```
+adb shell pm disable-user com.huawei.android.hwouc
+```
