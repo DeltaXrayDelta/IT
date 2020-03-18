@@ -17,3 +17,9 @@ DOMAIN-SUFFIX,skypixel.com,DIRECT
 DOMAIN-SUFFIX,ip.istatmenus.app,DIRECT
 DOMAIN-KEYWORD,accuweather,DIRECT
 DOMAIN-KEYWORD,tianyancha,AsianTV
+
+# Proxy
+DOMAIN-SUFFIX,outlook.com,Proxy
+DOMAIN-SUFFIX,hotmail.com,Proxy
+DOMAIN-SUFFIX,onedrive.com,Proxy
+DOMAIN-SUFFIX,live.com,Proxy
