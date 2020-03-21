@@ -1,5 +1,6 @@
 # Apple
 RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Apple.list,Apple
+RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/apple_ip_rule.list,Apple
 DOMAIN-SUFFIX,cdn-apple.com,Apple
 DOMAIN-SUFFIX,apple.com.cn,Apple
 
@@ -17,6 +18,7 @@ DOMAIN-SUFFIX,skypixel.com,DIRECT
 DOMAIN-SUFFIX,ip.istatmenus.app,DIRECT
 DOMAIN-KEYWORD,accuweather,DIRECT
 DOMAIN-KEYWORD,tianyancha,AsianTV
+RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/tencent_ip_rule.list,Domestic
 
 # Proxy
 DOMAIN-SUFFIX,outlook.com,Proxy
