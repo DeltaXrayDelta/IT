@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,ip.istatmenus.app,DIRECT
 DOMAIN-KEYWORD,accuweather,DIRECT
 DOMAIN-KEYWORD,tianyancha,AsianTV
 RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/tencent_ip_rule.list,Domestic
-RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/cisco_udp_list.list,AsianTV
+RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/cisco_udp_ip.list,AsianTV
 
 # Proxy
 DOMAIN-SUFFIX,outlook.com,Proxy
