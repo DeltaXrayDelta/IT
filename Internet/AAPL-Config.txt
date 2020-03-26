@@ -1,6 +1,6 @@
 # Apple
 RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Apple.list,Apple
-RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/apple_ip_rule.list,Apple
+# RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/apple_ip_rule.list,Apple
 DOMAIN-SUFFIX,cdn-apple.com,Apple
 DOMAIN-SUFFIX,apple.com.cn,Apple
 
