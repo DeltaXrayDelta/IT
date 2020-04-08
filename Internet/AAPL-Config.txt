@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,gate.hockeyapp.net,AdBlock
 DOMAIN-SUFFIX,api.amplitude.com,AdBlock
 DOMAIN-SUFFIX,devmate.com,AdBlock
 DOMAIN-SUFFIX,addata.jd.com,AdBlock
+DOMAIN-SUFFIX,xdrig.com,AdBlock
 
 
 # Direct
