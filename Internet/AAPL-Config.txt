@@ -26,6 +26,7 @@ DOMAIN-KEYWORD,tianyancha,AsianTV
 RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/tencent_ip_rule.list,Domestic
 RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/cisco_udp_ip.list,AsianTV
 DOMAIN-SUFFIX,aqara.com,DIRECT
+DOMAIN-SUFFIX,igexin.com,DIRECT
 
 # Proxy
 DOMAIN-SUFFIX,outlook.com,Proxy
