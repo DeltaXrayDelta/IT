@@ -35,3 +35,4 @@ DOMAIN-SUFFIX,hotmail.com,Proxy
 DOMAIN-SUFFIX,onedrive.com,Proxy
 DOMAIN-SUFFIX,live.com,Proxy
 DOMAIN-SUFFIX,dler.cloud,Proxy
+DOMAIN-SUFFIX,ocsp.int-x3.letsencrypt.org,Proxy
