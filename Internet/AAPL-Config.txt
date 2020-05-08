@@ -15,7 +15,6 @@ DOMAIN-SUFFIX,addata.jd.com,AdBlock
 DOMAIN-SUFFIX,xdrig.com,AdBlock
 DOMAIN-SUFFIX,igexin.com,AdBlock
 
-
 # Direct
 DOMAIN-SUFFIX,dji.com,DIRECT
 DOMAIN-SUFFIX,djicdn.com,DIRECT
@@ -27,7 +26,7 @@ DOMAIN-KEYWORD,tianyancha,AsianTV
 RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/tencent_ip_rule.list,Domestic
 RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/cisco_udp_ip.list,AsianTV
 DOMAIN-SUFFIX,aqara.com,DIRECT
-
+DOMAIN-SUFFIX,c-hzgt2.getui.com,DIRECT
 
 # Proxy
 DOMAIN-SUFFIX,outlook.com,Proxy
