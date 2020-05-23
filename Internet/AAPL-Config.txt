@@ -28,10 +28,11 @@ RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/cis
 DOMAIN-SUFFIX,aqara.com,DIRECT
 
 # Proxy
+PROCESS-NAME,fdm,GlobalTV
+PROCESS-NAME,Telegram,GlobalTV
 DOMAIN-SUFFIX,outlook.com,Proxy
 DOMAIN-SUFFIX,hotmail.com,Proxy
 DOMAIN-SUFFIX,onedrive.com,Proxy
 DOMAIN-SUFFIX,live.com,Proxy
-PROCESS-NAME,fdm,GlobalTV
 DOMAIN-SUFFIX,dler.cloud,Proxy
 DOMAIN-SUFFIX,ocsp.int-x3.letsencrypt.org,Proxy
