@@ -6,13 +6,14 @@ DOMAIN-SUFFIX,apple.com.cn,Apple
 
 # Reject
 RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Reject.list,AdBlock
-AND,((PROCESS-NAME,PDF Expert), (NOT,((DOMAIN-SUFFIX,downloads.pdfexpert.com)))),AdBlock
+AND,((PROCESS-NAME,PDF Expert), (NOT,((DOMAIN-SUFFIX,pdfexpert.com)))),AdBlock
 DOMAIN-KEYWORD,zhihu-web-analytics,AdBlock
 DOMAIN-SUFFIX,gate.hockeyapp.net,AdBlock
 DOMAIN-SUFFIX,api.amplitude.com,AdBlock
 DOMAIN-SUFFIX,devmate.com,AdBlock
 DOMAIN-SUFFIX,addata.jd.com,AdBlock
 DOMAIN-SUFFIX,xdrig.com,AdBlock
+DOMAIN-SUFFIX,igexin.com,AdBlock
 
 # Direct
 DOMAIN-SUFFIX,dji.com,DIRECT
@@ -24,6 +25,7 @@ DOMAIN-KEYWORD,accuweather,DIRECT
 DOMAIN-KEYWORD,tianyancha,AsianTV
 RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/tencent_ip_rule.list,Domestic
 RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/cisco_udp_ip.list,AsianTV
+DOMAIN-SUFFIX,aqara.com,DIRECT
 
 # Proxy
 DOMAIN-SUFFIX,outlook.com,Proxy
@@ -31,3 +33,5 @@ DOMAIN-SUFFIX,hotmail.com,Proxy
 DOMAIN-SUFFIX,onedrive.com,Proxy
 DOMAIN-SUFFIX,live.com,Proxy
 PROCESS-NAME,fdm,GlobalTV
+DOMAIN-SUFFIX,dler.cloud,Proxy
+DOMAIN-SUFFIX,ocsp.int-x3.letsencrypt.org,Proxy
