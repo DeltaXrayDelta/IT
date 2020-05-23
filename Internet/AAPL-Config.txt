@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,devmate.com,AdBlock
 DOMAIN-SUFFIX,addata.jd.com,AdBlock
 DOMAIN-SUFFIX,xdrig.com,AdBlock
 
-
 # Direct
 DOMAIN-SUFFIX,dji.com,DIRECT
 DOMAIN-SUFFIX,djicdn.com,DIRECT
@@ -31,3 +30,4 @@ DOMAIN-SUFFIX,outlook.com,Proxy
 DOMAIN-SUFFIX,hotmail.com,Proxy
 DOMAIN-SUFFIX,onedrive.com,Proxy
 DOMAIN-SUFFIX,live.com,Proxy
+PROCESS-NAME,fdm,GlobalTV
