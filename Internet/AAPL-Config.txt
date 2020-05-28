@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,igexin.com,AdBlock
 # Direct
 DOMAIN-SUFFIX,dji.com,DIRECT
 DOMAIN-SUFFIX,djicdn.com,DIRECT
-DOMAIN-SUFFIX,skypixel.com,DIRECT
+# DOMAIN-SUFFIX,skypixel.com,DIRECT
 DOMAIN-SUFFIX,ip.istatmenus.app,DIRECT
 DOMAIN-SUFFIX,api.rixcloud.io,DIRECT
 DOMAIN-KEYWORD,accuweather,DIRECT
