@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import urllib.request, os, json, time, re
 
 os.environ['TZ'] = 'Asia/Shanghai'     # Timezone Name "Asia/Shanghai" "America/New_York"
