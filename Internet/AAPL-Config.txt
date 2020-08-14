@@ -37,3 +37,8 @@ DOMAIN-SUFFIX,live.com,Proxy
 DOMAIN-SUFFIX,dler.cloud,Proxy
 DOMAIN-SUFFIX,ocsp.int-x3.letsencrypt.org,Proxy
 DOMAIN-SUFFIX,teamviewer.com,Proxy
+
+# Interactive Broker
+DOMAIN-SUFFIX,ibkr.com,Proxy
+DOMAIN-SUFFIX,interactivebrokers.com,Proxy
+DOMAIN-SUFFIX,ibllc.com.cn,Proxy
