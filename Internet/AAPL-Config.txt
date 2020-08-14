@@ -41,4 +41,5 @@ DOMAIN-SUFFIX,teamviewer.com,Proxy
 # Interactive Broker
 DOMAIN-SUFFIX,ibkr.com,Proxy
 DOMAIN-SUFFIX,interactivebrokers.com,Proxy
+DOMAIN-SUFFIX,ibllc.com,Proxy
 DOMAIN-SUFFIX,ibllc.com.cn,Proxy
