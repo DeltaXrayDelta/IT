@@ -15,6 +15,7 @@ IP-CIDR,62.109.192.0/18,no-resolve
 IP-CIDR,69.26.160.0/19,no-resolve
 DOMAIN-SUFFIX,wbx2.com
 DOMAIN-SUFFIX,webex.com
+DOMAIN-SUFFIX,cisco.com
 DOMAIN-SUFFIX,ciscospark.com
 DOMAIN-SUFFIX,webexcontent.com
 DOMAIN-SUFFIX,activation.webex.com
