@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,cdn-apple.com,Apple
 DOMAIN-SUFFIX,apple.com.cn,Apple
 
 # Reject
-RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Reject.list,AdBlock
+#RULE-SET,https://raw.githubusercontent.com/lhie1/Rules/master/Surge/Surge%203/Provider/Reject.list,AdBlock
 AND,((PROCESS-NAME,PDF Expert), (NOT,((DOMAIN-SUFFIX,pdfexpert.com)))),AdBlock
 DOMAIN-KEYWORD,zhihu-web-analytics,AdBlock
 DOMAIN-SUFFIX,gate.hockeyapp.net,AdBlock
@@ -24,7 +24,7 @@ DOMAIN-SUFFIX,api.rixcloud.io,DIRECT
 DOMAIN-KEYWORD,accuweather,DIRECT
 DOMAIN-KEYWORD,tianyancha,AsianTV
 #RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/tencent_ip_rule.list,Domestic
-RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/cisco_udp_ip.list,Netflix
+#RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/cisco_udp_ip.list,Netflix
 DOMAIN-SUFFIX,aqara.com,DIRECT
 
 # Proxy
