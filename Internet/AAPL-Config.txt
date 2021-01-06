@@ -21,11 +21,10 @@ DOMAIN-SUFFIX,dji.com,DIRECT
 DOMAIN-SUFFIX,djicdn.com,DIRECT
 # DOMAIN-SUFFIX,skypixel.com,DIRECT
 DOMAIN-SUFFIX,ip.istatmenus.app,DIRECT
-DOMAIN-SUFFIX,api.rixcloud.io,DIRECT
 DOMAIN-KEYWORD,accuweather,DIRECT
 DOMAIN-KEYWORD,tianyancha,AsianTV
-#RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/tencent_ip_rule.list,Domestic
-#RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/cisco_udp_ip.list,Netflix
+# RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/tencent_ip_rule.list,Domestic
+# RULE-SET,https://raw.githubusercontent.com/DeltaXrayDelta/IT/master/Internet/cisco_udp_ip.list,Netflix
 DOMAIN-SUFFIX,aqara.com,DIRECT
 
 # Proxy
