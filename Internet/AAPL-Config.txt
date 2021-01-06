@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,devmate.com,AdBlock
 DOMAIN-SUFFIX,addata.jd.com,AdBlock
 DOMAIN-SUFFIX,xdrig.com,AdBlock
 DOMAIN-SUFFIX,igexin.com,AdBlock
+DOMAIN-SUFFIX,cmpassport.com,AdBlock
 
 # Direct
 DOMAIN-SUFFIX,dji.com,DIRECT
